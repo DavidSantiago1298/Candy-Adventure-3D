@@ -91,6 +91,8 @@ MonoBehaviour:
   objectsToActivate:
   - {fileID: 8032706999835685315}
   - {fileID: 2909357737068427307}
+  - {fileID: 987444444746614202}
+  - {fileID: 9039114613133677329}
 --- !u!1001 &1958425918643455920
 PrefabInstance:
   m_ObjectHideFlags: 0

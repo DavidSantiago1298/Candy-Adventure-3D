@@ -90,7 +90,7 @@ MonoBehaviour:
   objectsToActivate:
   - {fileID: 5085700564151821515}
   - {fileID: 2909357737068427307}
-  - {fileID: 8300143346995558679}
+  - {fileID: 2050960562088331677}
 --- !u!1001 &1116418072050464789
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -370,14 +370,14 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 085a9f8335348244cae302b5f476a98d, type: 3}
+--- !u!1 &2050960562088331677 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1039256010076253069, guid: 085a9f8335348244cae302b5f476a98d, type: 3}
+  m_PrefabInstance: {fileID: 1304447497570394640}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &4057311505712675635 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3050101635919337763, guid: 085a9f8335348244cae302b5f476a98d, type: 3}
-  m_PrefabInstance: {fileID: 1304447497570394640}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &8300143346995558679 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7001510222353750791, guid: 085a9f8335348244cae302b5f476a98d, type: 3}
   m_PrefabInstance: {fileID: 1304447497570394640}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &5208198088642063840
